@@ -29,9 +29,7 @@
 #### FAQ's
 #### About section
 ### Content(Cards)
-#### Brief intro to the website is about
 #### Dashboard (Info like graph of sugar level etc from precious tests)
-#### News section
 #### Scheduled appointments/pick-ups
 #### Personal details
 - **allergic medicines**
@@ -44,3 +42,4 @@
 #### pharmaceutical Section
 - **Past order**
 - **Pending orders**
+#### News section
